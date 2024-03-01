@@ -1,4 +1,4 @@
-# Estructura de datos
+# 3. Estructura de datos
 
 - Listas, tuplas y conjuntos.
 - Diccionarios y su uso para almacenar pares clave-valor.
