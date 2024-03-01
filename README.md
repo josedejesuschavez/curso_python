@@ -1,8 +1,4 @@
-# curso_python
-
-Crear entorno virtual
-
-python -m venv venv
+# Introduccion
 
 Requisito previo para poder ejecutar scripts sin restricciones 
 ```
