@@ -1,10 +1,6 @@
-# curso_python
+# 3. Conceptos básicos de procesamiento de imágenes
 
-Temario
-1. Introducción a OpenCV
-2. Instalación de OpenCV
-3. Conceptos básicos de procesamiento de imágenes
-4. Operaciones básicas de procesamiento de imágenes
-5. Detección de características y descriptores
-6. Procesamiento de vídeo
-7. Reconocimiento de objetos y reconocimiento facial
+- Introducción a la representación de imágenes digitales
+- Lectura, visualización y escritura de imágenes
+- Manipulación de píxeles y regiones de interés (ROI)
+- Conversión de espacio de color
