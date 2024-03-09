@@ -1,4 +1,4 @@
-# 3. Conceptos básicos de procesamiento de imágenes
+# 2. Conceptos básicos de procesamiento de imágenes
 
 - Introducción a la representación de imágenes digitales
 - Lectura, visualización y escritura de imágenes
