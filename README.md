@@ -1,9 +1,5 @@
-# curso_python
+# 6. Reconocimiento de objetos y reconocimiento facial
 
-Temario
-1. Introducción a OpenCV
-2. Conceptos básicos de procesamiento de imágenes
-3. Operaciones básicas de procesamiento de imágenes
-4. Detección de características y descriptores
-5. Procesamiento de vídeo
-6. Reconocimiento de objetos y reconocimiento facial
+- Detección de objetos utilizando clasificadores en cascada
+- Reconocimiento facial utilizando el algoritmo Viola-Jones
+- Reconocimiento facial basado en aprendizaje profundo
