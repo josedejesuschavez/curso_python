@@ -2,5 +2,5 @@
 
 Instalar opencv en python
 ```
-pip install opencv-python
+pip install opencv-contrib-python
 ```
